@@ -91,6 +91,10 @@ border-right: 2px solid #556FB5 !important;*/
 .press2p{
 	font-family: 'Press Start 2P', cursive;
 }
+
+.supermercado{
+font-family: 'Supermercado One', cursive;
+}
 /**/
 /**/
 
@@ -101,7 +105,7 @@ border-right: 2px solid #556FB5 !important;*/
 .row2border{
 	padding: 48px 0px 48px 0px;
 	border-style: double;
-	border-width: 1px 0px 1px 0px;
+	border-width: 1px 0px 0px 0px;
 	border-color: white;
 }
 
@@ -117,4 +121,22 @@ border-right: 2px solid #556FB5 !important;*/
 	font-size: 250px;
 }
 
+.formcolor{
+	font-size: 13px !important;
+	color: #556FB5 !important;
+	font-family: 'Press Start 2P', cursive;
+}
 
+.submitbtn{
+	background-color: #556FB5 !important;
+	color: white !important;
+}
+
+.submitbtn:hover{
+	background-color: white !important;
+	color: #556FB5 !important;
+}
+
+.txtfield:hover{
+	opacity: 0.8;
+}

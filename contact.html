@@ -15,7 +15,7 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/contactstyle.css">
 
 	<!-- Google fonts -->
-	<link href="https://fonts.googleapis.com/css?family=Amatic+SC|Bungee+Inline|Bungee+Shade|Audiowide|Monda|Monoton|Press+Start+2P&display=swap" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Amatic+SC|Bungee+Inline|Bungee+Shade|Audiowide|Monda|Monoton|Press+Start+2P|Supermercado+One&display=swap" rel="stylesheet"> 
 
 	<!-- Font awesome -->
 	<script src="https://kit.fontawesome.com/29fbdfb4c4.js" crossorigin="anonymous"></script>
@@ -38,7 +38,7 @@
 				</li>
 
 				<li class="nav-item">
-					<a class="nav-link border border-light py-1 px-4 btnsnotactive" href="about.html">About<span class="sr-only">(current)</span></a>
+					<a class="nav-link border border-light py-1 px-4 btnsnotactive" href="about.html">About</a>
 				</li>
 
 				<li class="nav-item">
@@ -56,22 +56,53 @@
 
 	<!-- Container -->
 	<div class="container">
-		<!-- row1 -->
+		<!-- Row1 -->
 		<div class="row my-5 py-5">
-			<div class="col-md-6 my-auto">
-				<h1 class="text-center">Contact</h1>
-			</div>
-			<div class="col-md-6 my-auto">
-				<p class="text-left">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			<div class="col-md-12 my-auto">
+				<h1 class="text-center monoton">Contact</h1>
+				<h3 class="text-center supermercado">"We're hungry for content, let us know what you think!"</h3>
 			</div>
 		</div>
-		<!-- end of row1 -->
+		<!-- End of Row1 -->
+		<!-- row2 -->
+		<div class="row mx-auto py-5 border-top border-light">
+			<!-- col 1 -->
+			<div class="col-md-6" data-aos="flip-up">
+				<!-- contact form -->
+				<form>
+					<div class="form-group">
+						<label for="formemail">Email address</label>
+						<input type="email" class="form-control formcolor txtfield" id="formemail" required>
+					</div>
+					<div class="form-group">
+						<label for="formname">Name/ Alias</label>
+						<input type="email" class="form-control formcolor txtfield" id="formname">
+					</div>
+					<div class="form-group">
+						<label for="formselect">Purpose</label>
+						<select class="form-control formcolor txtfield" id="formselect">
+							<option>Question</option>
+							<option>Suggestion/ Feedback</option>
+							<option>Test a game</option>
+							<option>Other</option>
+						</select>
+					</div>
+					<div class="form-group">
+						<label for="exampleFormControlTextarea1">Comment</label>
+						<textarea class="form-control formcolor txtfield" id="exampleFormControlTextarea1" rows="3" required></textarea>
+					</div>
+					<button type="submit" class="btn border border-light submitbtn">Submit</button>
+				</form>
+				<!-- end of contact form  -->
+			</div>
+			<!-- end of col 1 -->
+			<!-- col 2 -->
+			<div class="col-md-6 px-auto my-auto" data-aos="flip-up">
+				<p class="monda mb-5 font-weight-bolder"> ICE GAMING is the one-step center for avid video game fans, delivering entertainment to those gamers who are seeking new games and content to play or watch, varying from big triple A games into small indie games that have been developed by individual that has a passion for game development. </p>
+			</div>
+			<!-- end of col 2 -->
+		</div>
+		<!-- end of row2 --> 
 	</div>
 	<!-- End of Container -->
 
@@ -93,6 +124,8 @@
 			</div>
 		</div>
 		<!-- end of row -->
+
+
 	</div>
 	<!-- Container -->
 	<!-- End of Footer -->
