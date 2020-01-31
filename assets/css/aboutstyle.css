@@ -5,28 +5,28 @@ body{
 	/*background-position: top;*/
 	/*background-repeat: no-repeat;*/
 
-	background-color: #2E8364;
+	background-color: #297559;
 	color: white;
 	font-family: 'Bungee Inline', cursive;
 }
 
 
 .headerbg{
-	background-color: #2E8364;
+	background-color: #297559;
 }
 
 /*navbar font style and color of text  || Hover */
 
 .btnsactive{
 	font-size: 20px;
-	color: #2E8364 !important;
+	color: #297559 !important;
 	background-color: white !important;
 	/*text-shadow: 5px 5px 5px white;*/
 }
 
 .btnsnotactive{
 	font-size: 20px;
-	background-color: #2E8364 !important;
+	background-color: #297559 !important;
 	color: white !important;
 }
 
@@ -34,23 +34,23 @@ body{
 /*Hover*/
 .btnsactive:hover{
 	font-weight: bolder;
-	color: #2E8364 !important;
+	color: #297559 !important;
 	/*text-shadow: 5px 5px 5px yellow;*/
 }
 
 
 .btnsnotactive:hover{
 	font-weight: bolder;
-	color: #2E8364 !important;
+	color: #297559 !important;
 	background-color: white !important;
-/*	border-left: 2px solid #2E8364 !important;
-border-right: 2px solid #2E8364 !important;*/
+/*	border-left: 2px solid #297559 !important;
+border-right: 2px solid #297559 !important;*/
 }
 
 .logoicon{
 	font-size: 20px;
 	color: white !important;
-	background-color: #2E8364 !important;
+	background-color: #297559 !important;
 }
 .logoicon:hover{
 	font-weight: bolder;
@@ -105,7 +105,7 @@ border-right: 2px solid #2E8364 !important;*/
 }
 
 .learnmorebtn{
-	background-color: #2E8364 !important;
+	background-color: #297559 !important;
 	color:white !important;	
 }
 

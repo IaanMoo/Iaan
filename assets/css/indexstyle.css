@@ -5,28 +5,28 @@ body{
 	/*background-position: top;*/
 	/*background-repeat: no-repeat;*/
 
-	background-color: #9C8ADE;
+	background-color: #6552a7;
 	color: white;
 	font-family: 'Bungee Inline', cursive;
 }
 
 
 .headerbg{
-	background-color: #9C8ADE;
+	background-color: #6552a7;
 }
 
 /*font style and color of navbar text  || Hover */
 
 .btnsactive{
 	font-size: 20px;
-	color: #9C8ADE !important;
+	color: #6552a7 !important;
 	background-color: white !important;
 	/*text-shadow: 5px 5px 5px white;*/
 }
 
 .btnsnotactive{
 	font-size: 20px;
-	background-color: #9C8ADE !important;
+	background-color: #6552a7 !important;
 	color: white !important;
 }
 
@@ -34,23 +34,23 @@ body{
 /*Hover*/
 .btnsactive:hover{
 	font-weight: bolder;
-	color: #9C8ADE !important;
+	color: #6552a7 !important;
 	/*text-shadow: 5px 5px 5px yellow;*/
 }
 
 
 .btnsnotactive:hover{
 	font-weight: bolder;
-	color: #9C8ADE !important;
+	color: #6552a7 !important;
 	background-color: white !important;
-/*	border-left: 2px solid #9C8ADE !important;
-border-right: 2px solid #9C8ADE !important;*/
+/*	border-left: 2px solid #6552a7 !important;
+border-right: 2px solid #6552a7 !important;*/
 }
 
 .logoicon{
 	font-size: 20px;
 	color: white !important;
-	background-color: #9C8ADE !important;
+	background-color: #6552a7 !important;
 }
 .logoicon:hover{
 	font-weight: bolder;
@@ -106,7 +106,7 @@ border-right: 2px solid #9C8ADE !important;*/
 }
 
 .learnmorebtn{
-	background-color: #9C8ADE !important;
+	background-color: #6552a7 !important;
 	color:white !important;	
 }
 

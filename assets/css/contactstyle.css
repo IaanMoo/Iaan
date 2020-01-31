@@ -5,28 +5,28 @@ body{
 	/*background-position: top;*/
 	/*background-repeat: no-repeat;*/
 
-	background-color: #556FB5;
+	background-color: #5068a7;
 	color: white;
 	font-family: 'Bungee Inline', cursive;
 }
 
 
 .headerbg{
-	background-color: #556FB5;
+	background-color: #5068a7;
 }
 
 /*font style and color of navbar text  || Hover */
 
 .btnsactive{
 	font-size: 20px;
-	color: #556FB5 !important;
+	color: #5068a7 !important;
 	background-color: white !important;
 	/*text-shadow: 5px 5px 5px white;*/
 }
 
 .btnsnotactive{
 	font-size: 20px;
-	background-color: #556FB5 !important;
+	background-color: #5068a7 !important;
 	color: white !important;
 }
 
@@ -34,23 +34,23 @@ body{
 /*Hover*/
 .btnsactive:hover{
 	font-weight: bolder;
-	color: #556FB5 !important;
+	color: #5068a7 !important;
 	/*text-shadow: 5px 5px 5px yellow;*/
 }
 
 
 .btnsnotactive:hover{
 	font-weight: bolder;
-	color: #556FB5 !important;
+	color: #5068a7 !important;
 	background-color: white !important;
-/*	border-left: 2px solid #556FB5 !important;
-border-right: 2px solid #556FB5 !important;*/
+/*	border-left: 2px solid #5068a7 !important;
+border-right: 2px solid #5068a7 !important;*/
 }
 
 .logoicon{
 	font-size: 20px;
 	color: white !important;
-	background-color: #556FB5 !important;
+	background-color: #5068a7 !important;
 }
 .logoicon:hover{
 	font-weight: bolder;
@@ -123,20 +123,26 @@ font-family: 'Supermercado One', cursive;
 
 .formcolor{
 	font-size: 13px !important;
-	color: #556FB5 !important;
+	color: #5068a7 !important;
 	font-family: 'Press Start 2P', cursive;
 }
 
 .submitbtn{
-	background-color: #556FB5 !important;
+	background-color: #5068a7 !important;
 	color: white !important;
 }
 
 .submitbtn:hover{
 	background-color: white !important;
-	color: #556FB5 !important;
+	color: #5068a7 !important;
 }
 
 .txtfield:hover{
 	opacity: 0.8;
+}
+
+.googlemaps{
+	width:280px;
+	height:270px;
+	border:0;
 }

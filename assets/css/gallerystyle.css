@@ -122,7 +122,75 @@ border-right: 2px solid #A02C2D !important;*/
 	height: 200px !important;
 }
 
+.gallerythumbnail:hover, .unitythumbnail:hover{
+	opacity: 0.85;
+}
+
 .modalbg{
 	background-color: #A02C2D !important;
 }
+
+.asd{
+	position: relative
+}
+.asd2{
+	text-shadow: 0px 0px 10px black;
+	color: gold;
+	position: absolute;
+	right:15px;
+	top:15px;
+}/*gold star*/
+.asd3{
+	text-shadow: 0px 0px 10px black;
+	color: skyblue;
+	position: absolute;
+	right:15px;
+	top:15px;
+}/*silver star*/
+.asd4{
+	text-shadow: 0px 0px 10px black;
+	color: silver;
+	position: absolute;
+	right:15px;
+	top:15px;
+}/*skyblue star*/
+.asd2:hover, .asd3:hover, .asd4:hover{
+	font-size: 20px !important;
+}
+
+.carouselimg{
+	height: 400px !important;
+	width: 100% !important;
+}
+
+.rocket:hover{
+	color: #e4e4e4;
+}
+
+.unitythumbnail{
+	width: 150px !important;
+	height: 150px !important;
+}
+
+.goldstar{
+	color: gold;
+	text-shadow: 0px 0px 10px black;
+}
+
+.skybluestar{
+	color: skyblue;
+	text-shadow: 0px 0px 10px black;
+}
+
+.silverstar{
+	color: silver;
+	text-shadow: 0px 0px 10px black;
+}
+
+.unityicon{
+	width: 50px;
+	height: 50px
+}
+
+
 
